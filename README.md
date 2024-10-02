@@ -16,7 +16,7 @@ O projeto consiste em uma plataforma educacional interativa, destinada a crianç
 
 * **Giovanna Soprano** - *gracogi* 
 * **Letícia Antunes** - **
-* **Ingrid de Souza** - **
-* **Adryan Galvão** - **
+* **Ingrid de Souza** - *Indridloppess*
+* **Adryan Galvão** - *AdryanTw1227*
 ---
 ⌨️ com ❤️ por Equipe RoboLearn 😊
