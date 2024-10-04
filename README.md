@@ -21,6 +21,7 @@ O projeto consiste em uma plataforma educacional interativa, destinada a crianç
 
 ## 💻 Site
 
-*https://gracogi.github.io/RoboLearn/*
+<https://gracogi.github.io/RoboLearn/>
+
 ---
 ⌨️ com ❤️ por Equipe RoboLearn 😊
