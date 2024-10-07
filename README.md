@@ -14,8 +14,8 @@ O projeto consiste em uma plataforma educacional interativa, destinada a crianç
 
 ## ✒️ Autores
 
-* **Giovanna Soprano** - *gracogi* 
-* **Letícia Antunes** - **
+* **Giovanna Soprano** - *Gracogi* 
+* **Letícia Antunes** - *LeticiaNovaesAntunes*
 * **Ingrid de Souza** - *Indridloppess*
 * **Adryan Galvão** - *AdryanTw1227*
 
