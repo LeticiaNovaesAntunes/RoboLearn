@@ -24,7 +24,7 @@ O projeto consiste em uma plataforma educacional interativa, destinada a crianç
 
 * **Giovanna Soprano** - *Gracogi* 
 * **Letícia Antunes** - *LeticiaNovaesAntunes*
-* **Ingrid de Souza** - *Indridloppess*
+* **Ingrid de Souza** - *Ingridloppess*
 * **Adryan Galvão** - *AdryanTw1227*
 
 ## 💻 Site
